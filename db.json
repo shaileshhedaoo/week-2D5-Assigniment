@@ -1,0 +1,52 @@
+{
+    "vehicles":[
+        {
+            "id":1,
+            "image":"https://images.pexels.com/photos/2920064/pexels-photo-2920064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "name":"Toyota Corolla",
+            "price":20000,
+            "mileage":15000,
+            "color":"White",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"A reliable family car"
+        },
+        {
+            "id":2,
+            "image":"https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Honda Civic",
+            "price":"$18,500",
+            "mileage":"12,000 miles",
+            "color":"Red",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"Sporty and efficient city car"
+        },
+        {
+            "id":3,
+            "image":"https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Ford Mustang",
+            "price":"$35,000",
+            "mileage":"8,000 miles",
+            "color":"WhiBlue",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Manual",
+            "description":"Classic American muscle car"
+        },
+        {
+            "id":4,
+            "image":"https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"BMW X5",
+            "price":"$55,000",
+            "mileage":"20,000 miles",
+            "color":"White",
+            "seats":5,
+            "fuel":"Petrol",
+            "gear":"Automatic",
+            "description":"Luxury SUV with advanced features"
+        }
+    ]
+}
